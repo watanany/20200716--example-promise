@@ -21,7 +21,6 @@
     "transform-es2015-typeof-symbol",
     "transform-es2015-unicode-regex",
     "transform-regenerator",
-    "transform-regenerator",
     "syntax-async-functions"
   ]
 }
